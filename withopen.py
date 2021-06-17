@@ -1,0 +1,5 @@
+f = open("new.txt", "w")
+f.write("Hello World")
+f.write("Hello World")
+f.write("Hello World")
+f.close()
